@@ -1,0 +1,5 @@
+CREATE PROCEDURE PW_sp_GH_Test
+AS
+BEGIN
+	PRINT 'Hello Git Hub'
+END 
